@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="34251" started-at="2018-06-11T08:52:38Z" finished-at="2018-06-11T08:53:13Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="34251" started-at="2018-06-11T08:52:38Z" finished-at="2018-06-11T08:53:13Z">
+      <class name="com.experitest.auto.IOSBrowserLocalTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.experitest.auto.IOSBrowserLocalTest@f6c48ac]" name="beforeTest" is-config="true" duration-ms="24058" started-at="2018-06-11T14:22:38Z" finished-at="2018-06-11T14:23:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.experitest.auto.IOSBrowserLocalTest@f6c48ac]" name="launchBrowser" duration-ms="7453" started-at="2018-06-11T14:23:02Z" finished-at="2018-06-11T14:23:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.experitest.auto.IOSBrowserLocalTest@f6c48ac]" name="afterTest" is-config="true" duration-ms="2723" started-at="2018-06-11T14:23:10Z" finished-at="2018-06-11T14:23:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.experitest.auto.IOSBrowserLocalTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
